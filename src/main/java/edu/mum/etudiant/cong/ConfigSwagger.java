@@ -39,11 +39,11 @@ public class ConfigSwagger {
 
                 "Spring Boot REST API",
                 "Spring Boot REST API for Online School",
-                "2.0",
+                "1.0",
                 "Terms of service",
-                new Contact("Kishan K", "https://www.flipkart.com", "kishan.javatrainer@gmail.com.com"),
-                "Flipkart License Version 2.0",
-                "https://www.flipkart.com/LICENSE-2.0");
+                new Contact("Jean Chrisner", "https://www.google.com", "jeancharles.jeanchrisner@gmail.com"),
+                "chriso License Version 1.0",
+                "https://www.google.com/LICENSE-1.0");
 
 
 
